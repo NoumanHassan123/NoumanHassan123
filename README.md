@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nouman Hassan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+in+Progress;NLP+%7C+Deep+Learning+%7C+Generative+AI;Building+RAG+Pipelines+%26+LLM+Apps;BS+CS+%40+FAST-NUCES+Lahore" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%2F+ML+Engineer+in+Progress;NLP+%7C+Deep+Learning+%7C+Generative+AI;Building+RAG+Pipelines+%26+LLM+Apps;BS+CS+%40+FAST-NUCES+Lahore" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -56,6 +56,7 @@
 | **RAG Document Q&A Agent** | End-to-end retrieval pipeline w/ semantic search | HuggingFace, Supabase, n8n |
 | **GullyScore** | Cricket app with AI chatbot integration | Flutter, Supabase |
 | **AutoShorts.ai** | Local AI video-to-shorts generator — built `renderer.py`: 9:16 crop, zoom/punch-in effects, caption burn-in via moviepy + ffmpeg | Python, moviepy, ffmpeg |
+| **HotelEase** | Full-stack hotel booking platform — implemented entire frontend for guest, hotel owner, and admin roles (search, booking, reviews, room/earnings management, listing approval) | React, Vite, Node.js, Express, MongoDB |
 
 ---
 
