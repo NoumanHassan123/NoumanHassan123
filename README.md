@@ -24,7 +24,10 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,tensorflow,pytorch,git,github,docker,vscode,figma,html,css,tailwind&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,tensorflow,pytorch,git,github,docker,linux,vscode,figma,html,css,tailwind&perline=8" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Wazuh-1A73C1?style=for-the-badge&logo=wazuh&logoColor=white" />
 </p>
 
 ---
