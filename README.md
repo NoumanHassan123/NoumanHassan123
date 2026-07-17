@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 - 🎓 BS Computer Science student at **FAST-NUCES Lahore** (Expected 2027)
-- 🧠 AI Intern at Code Celix
+- 🧠 AI Intern at CodeCelix
 - 🧠 Building AI/ML models, NLP pipelines, and Generative AI applications
 - 🔐 Completed SOC Analyst Internship at **Secure Dev Labs (SDL)** — SIEM, threat detection, incident response
 - 🤝 Volunteer Intern at **Alkhidmat Foundation**
