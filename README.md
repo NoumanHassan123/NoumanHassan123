@@ -14,9 +14,9 @@
 ### 🚀 About Me
 - 🎓 BS Computer Science student at **FAST-NUCES Lahore** (Expected 2027)
 - 🧠 Building AI/ML models, NLP pipelines, and Generative AI applications
-- 🔐 SOC Analyst Intern — SIEM, threat detection, incident response
-- 🏏 Building **GullyScore** — a cricket app with an AI chatbot
-- 💬 Ask me about: RAG pipelines, LSTM/Attention models, LLM prompt engineering
+- 🔐 Completed SOC Analyst Internship at **Secure Dev Labs (SDL)** — SIEM, threat detection, incident response
+- 🤝 Volunteer Intern at **Alkhidmat Foundation**
+💬 Ask me about: frontend & backend engineering, full-stack applications, LLM applications, RAG pipelines, AI agents, and LLM prompt engineering
 
 ---
 
