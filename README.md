@@ -75,15 +75,12 @@
 </p>
 ---
 
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NoumanHassan123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NoumanHassan123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars,issues&type=owner" />
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NoumanHassan123&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoumanHassan123&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
