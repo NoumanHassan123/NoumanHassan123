@@ -15,7 +15,6 @@
 - 🎓 BS Computer Science student at **FAST-NUCES Lahore** (Expected 2027)
 - 🧠 AI Intern at **CodeCelix**
 - 🧠 Building AI/ML models, NLP pipelines, and Generative AI applications
-- 🔐 Completed SOC Analyst Internship at **Secure Dev Labs (SDL)** — SIEM, threat detection, incident response
 - 🤝 Volunteer Intern at **Alkhidmat Foundation**
 - 💬 Ask me about: frontend & backend engineering, full-stack applications, LLM applications, RAG pipelines, AI agents, and LLM prompt engineering
 
