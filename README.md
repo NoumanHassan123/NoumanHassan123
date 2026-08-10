@@ -68,12 +68,12 @@
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
 </p>
+
 ---
 
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NoumanHassan123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars,issues&type=owner" />
+<p align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=NoumanHassan123&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,issues&type=owner" />
 </p>
 
 ---
