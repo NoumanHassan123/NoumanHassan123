@@ -85,15 +85,15 @@
 </p>
 
 ---
-
 ### 📌 Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| **RAG Document Q&A Agent** | End-to-end retrieval pipeline w/ semantic search | HuggingFace, Supabase, n8n |
-| **GullyScore** | Cricket app with AI chatbot integration | Flutter, Supabase |
-| **AutoShorts.ai** | Local AI video-to-shorts generator — built `renderer.py`: 9:16 crop, zoom/punch-in effects, caption burn-in via moviepy + ffmpeg | Python, moviepy, ffmpeg |
-| **HotelEase** | Full-stack hotel booking platform with guest, hotel owner and admin roles.Built the hotel-owner module: owner dashboard, hotel and room management, coupon system with automatic status tracking, and mobile-responsive owner pages | React, Vite, Node.js, Express, MongoDB |
+| **[GullyScore](https://github.com/NoumanHassan123/gully-score)** | Cricket scoring app. Built the LLM chatbot that answers player and match questions only from the app's live database, plus the admin app | Flutter, Supabase Edge Functions, Groq LLM |
+| **RAG Document Q&A Agent** | Pipeline that answers questions from your own documents using semantic search | n8n, Supabase, Hugging Face |
+| **[Gather](https://github.com/NoumanHassan123/Event-Management-System)** | Event discovery app on the Ticketmaster API with filters, accounts and registrations; 63 automated tests. [Live demo](https://gather-sable-eta.vercel.app) | React 19, Redux Toolkit, Vite |
+| **[HotelEase](https://github.com/NoumanHassan123/HotelEase)** | Hotel booking platform with guest, owner and admin roles (team of 3). Built the hotel-owner module: owner dashboard, hotel and room management, coupon system with automatic status tracking, and mobile-responsive owner pages | React, Vite, Node.js, Express, MongoDB |
+| **AutoShorts.ai** | Local AI video-to-shorts generator (CodeCelix, team of 8). Built the video renderer: cuts selected clips and converts them to 9:16 vertical MP4 with ffmpeg | Python, ffmpeg, moviepy |
 
 ---
 
