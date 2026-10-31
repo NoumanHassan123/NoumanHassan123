@@ -93,7 +93,7 @@
 | **RAG Document Q&A Agent** | End-to-end retrieval pipeline w/ semantic search | HuggingFace, Supabase, n8n |
 | **GullyScore** | Cricket app with AI chatbot integration | Flutter, Supabase |
 | **AutoShorts.ai** | Local AI video-to-shorts generator — built `renderer.py`: 9:16 crop, zoom/punch-in effects, caption burn-in via moviepy + ffmpeg | Python, moviepy, ffmpeg |
-| **HotelEase** | Full-stack hotel booking platform — implemented entire frontend for guest, hotel owner, and admin roles (search, booking, reviews, room/earnings management, listing approval) | React, Vite, Node.js, Express, MongoDB |
+| **HotelEase** | Full-stack hotel booking platform with guest, hotel owner and admin roles.Built the hotel-owner module: owner dashboard, hotel and room management, coupon system with automatic status tracking, and mobile-responsive owner pages | React, Vite, Node.js, Express, MongoDB |
 
 ---
 
