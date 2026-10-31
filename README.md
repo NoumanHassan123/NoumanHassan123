@@ -93,7 +93,7 @@
 | **RAG Document Q&A Agent** | Pipeline that answers questions from your own documents using semantic search | n8n, Supabase, Hugging Face |
 | **[Gather](https://github.com/NoumanHassan123/Event-Management-System)** | Event discovery app on the Ticketmaster API with filters, accounts and registrations; 63 automated tests. [Live demo](https://gather-sable-eta.vercel.app) | React 19, Redux Toolkit, Vite |
 | **[HotelEase](https://github.com/NoumanHassan123/HotelEase)** | Hotel booking platform with guest, owner and admin roles (team of 3). Built the hotel-owner module: owner dashboard, hotel and room management, coupon system with automatic status tracking, and mobile-responsive owner pages | React, Vite, Node.js, Express, MongoDB |
-| **AutoShorts.ai** | Local AI video-to-shorts generator (CodeCelix, team of 8). Built the video renderer: cuts selected clips and converts them to 9:16 vertical MP4 with ffmpeg | Python, ffmpeg, moviepy |
+| **[AutoShorts.ai](https://github.com/musman693/autoshorts_ai)** | Local AI video-to-shorts generator (CodeCelix, team of 8). Built the video renderer: cuts selected clips and converts them to 9:16 vertical MP4 with ffmpeg | Python, ffmpeg, moviepy |
 
 ---
 
